@@ -1,7 +1,7 @@
 {
-  "name": "Banking System",
+  "name": "BankingSystem",
   "version": "1.2.0",
-  "description": "Banking System",
+  "description": "BankingSystem",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
